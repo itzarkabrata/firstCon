@@ -1,2 +1,2 @@
 # firstCon
-<h1>This is the new Repository That i have created</h1>
+<h1>This is the new Repository That I have created, Now its really convenient</h1>
